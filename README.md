@@ -1,7 +1,7 @@
 # .github
 
 ## **Current Projects**
-- ***WovenLib ***
+- ***WovenLib***
    - (Material library for standardized materials for cross mod compatibility)
 - ***Patchwork Project***
    - (adds blocks that we believe are missing from the base game)
