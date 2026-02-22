@@ -7,7 +7,7 @@
    - (adds blocks that we believe are missing from the base game)
 - ***The Loom***
     - (our version/vision of the asset editor and how we see hytale mod/plugin dev should look like)
-- [***ModWeavers***](https://discord.com/channels/1440173445039132724/1469145779490000940)
+- [***ModWeavers***](https://github.com/TaleWeavers/ModWeaver)
    - (Mod Hosting site with some unique features that making use it easier for Devs and users and etc.)
 - ***The Kwezza***
    - :}
